@@ -1,0 +1,48 @@
+
+.зад {
+  background:url(img/bil_Fon.jpg); /* Цвет фона и путь к файлу */
+  width: 100%;
+  
+}
+
+.container { /*хуйня для всьої сьорінки*/
+  width: 50%;/*ширина блоку*/ 
+  
+  
+  
+}
+.курка{
+  height: 50px; /* Высота блока */
+  width: 150px; /* Ширина блока */
+  padding: 10px 0px 5px 0px;
+}
+.page-header { 
+  box-shadow: 0 2px 2px rgba(0, 0, 0, 0.2); 
+}
+
+.page-title {
+  padding: 10px 0px 5px 50%;/*внутрішні відступи тексту */
+  font-weight: bold;
+  font-size: 36px;
+  line-height: 48px;
+}
+
+
+.page-footer {
+  margin-top: auto;
+  color: #ffffff;
+  background-color: #6653d9;
+}
+
+.page-footer .container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-top: 12px;
+  padding-bottom: 14px;
+}
+
+.page-footer p {
+  margin: 0;
+  padding: 0;
+}
