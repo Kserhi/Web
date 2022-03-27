@@ -8,11 +8,11 @@
 .container { /*хуйня для всьої сьорінки*/
   width: 50%;/*ширина блоку*/  
 }
-.select{
-   width: 200px; /* Ширина блока */
-   background-color: #6653d9;
+.navLink{
+  position: absolute;
+  top: 200px;
+  box-shadow: 0px 2px 0px 0px rgba(0, 0, 252, .2);
 }
-
 
 
 .курка{
@@ -23,9 +23,7 @@
 
 
 .page-header { 
-    
-  height: 200px; /* Высота блока */
-  box-shadow: 0 2px 2px rgba(0, 0, 0, 0.2); 
+  height: 250px; /* Высота блока */ 
 }
 
 
@@ -33,20 +31,23 @@
 
 .page-title {
   width: 700px; /* Ширина блока */
-
   position: absolute;
-  left: 500px;
-
-  padding: 0px 0px 0px 0px;  /* внутрішні відступи тексту */
+  left: 450px;
   font-weight: bold;
-  font-size: 3.2em;;
+  font-size: 3.2em;
   line-height: 48px;
+}
+.a{
+padding: 30px 0px 0px 60px;   
+}
+.b{
+  padding: 100px 0px 0px 0px;
 }
 
 
 .page-footer {
   margin-top: auto;
-  color: #ffffff;
+  color: black;
   background-color: #6653d9;
 }
 
