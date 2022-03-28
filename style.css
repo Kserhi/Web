@@ -19,7 +19,7 @@
 
 .курка{
   height: 200px; /* Высота блока */
-  width: 200px; /* Ширина блока */
+  width:200px; /* Ширина блока */
   position: absolute;
 }
 
@@ -43,7 +43,7 @@
 padding: 30px 0px 0px 60px;   
 }
 .b{
-  padding: 100px 0px 0px 0px;
+  padding: 100px 0px 0px 70px;
 }
 
 
