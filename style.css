@@ -1,18 +1,20 @@
 
 .зад {
-  background:url(img/bil_Fon.jpg); /* Цвет фона и путь к файлу */
+  background:url(img/bil_Fon.jpg); /* фонова картинка*/
   width: 100% ;
   
 }
 
-.container { /*хуйня для всьої сьорінки*/
+.container { /*ширина для всьої сьорінки*/
   width: 50%;/*ширина блоку*/  
 }
 .navLink{
   position: absolute;
   top: 200px;
+  left: 100;
   box-shadow: 0px 2px 0px 0px rgba(0, 0, 252, .2);
 }
+
 
 
 .курка{
@@ -48,7 +50,7 @@ padding: 30px 0px 0px 60px;
 .page-footer {
   margin-top: auto;
   color: black;
-  background-color: #6653d9;
+  background-color:#c1c1c1;
 }
 
 .page-footer .container {
