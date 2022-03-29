@@ -15,7 +15,9 @@
   box-shadow: 0px 2px 0px 0px rgba(0, 0, 252, .2);
 }
 
-
+.lowLine{
+   text-decoration: underline; /* Подчеркивание заголовка */
+}
 
 .курка{
   height: 200px; /* Высота блока */
@@ -23,7 +25,10 @@
   position: absolute;
 }
 
-
+.pip{
+   height: 200px; /* Высота блока */
+  width:200px; /* Ширина блока */
+}
 .page-header { 
   height: 250px; /* Высота блока */ 
 }
