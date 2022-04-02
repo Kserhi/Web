@@ -30,7 +30,7 @@
   width:200px; /* Ширина блока */
 }
 .page-header { 
-  height: 250px; /* Высота блока */ 
+  height: 270px; /* Высота блока */ 
 }
 
 
@@ -49,10 +49,7 @@
   position: absolute;
   top: 500px;left:0px;
   width:250px; /* Ширина блока */
-  /*opacity: 0.0; // прозрачность*/
 }
-
-
 
 .batonr{
   position: absolute;
@@ -67,6 +64,15 @@ top: 40px; left: 300px;
 
 }
 
+.cent {
+    display: block;
+    margin-left: auto;
+    margin-right: auto; 
+    width:100%;
+    height:500px;
+  }
+.P { text-align: center }
+.H2 { text-align: center }
 
 .a{
 padding: 30px 0px 0px 60px;   
