@@ -1,0 +1,19 @@
+.beg{
+	background-image: url(img/bil_Fon.jpg);
+	width: 1000px;
+	margin-left: auto;
+    margin-right: auto;
+}
+.headerTitle{
+text-align: center
+}
+.stickyTop{
+	height:100%; 
+	width:200px;
+	margin-left: auto;
+
+}
+
+.divMain{
+	width:800px; 
+}
